@@ -1,7 +1,22 @@
 # Dataset and source code for `Efficient Solution Methods for a General $r$-interdiction Median Problem with Fortification`
 
+## Cite
+To cite this data, please cite the research article {`!link to be added`} and the data itself, using the following DOI.
 
-Kaike Zhang, Xueping Li and Mingzhou Jin (2021), "Efficient Solution Methods for a General $r$-interdiction Median Problem with Fortification."  INFORMS Journal on Computing. Vol. ###, Pages: ###-###. 
+Below is the BibTex for citing this version of the data.
+
+
+  >
+  ```
+  @article{Data.IJOC.2021.GRIMF,
+    author =        {Kaike Zhang, Xueping Li and Mingzhou Jin},
+    publisher =     {INFORMS Journal on Computing},
+    title =         {Efficient Solution Methods for a General $r$-interdiction Median Problem with Fortification},
+    year =          {2021},
+    doi =           {`TBD`},
+    url =           {https://github.com/ILABUTK/IJOC-General-RIMF},
+  } 
+  ```
 
 ![Bi-level Problem](/bi-level_problem.png)
 
