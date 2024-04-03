@@ -1,7 +1,7 @@
 # Dataset and source code for `Efficient Solution Methods for a General $r$-interdiction Median Problem with Fortification`
 
 ## Cite
-To cite this data, please cite the research article [IJOC,2021.1111](https://pubsonline.informs.org/doi/10.1287/ijoc.2021.1111) and the data itself, using the following DOI.
+To cite this data, please cite the research article [IJOC.2021.1111](https://pubsonline.informs.org/doi/10.1287/ijoc.2021.1111) and the data itself, using the following DOI.
 
 Below is the BibTex for citing this version of the data.
 
